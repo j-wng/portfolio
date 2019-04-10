@@ -1,7 +1,6 @@
 ---
 permalink: /coursework/
 title: "Course Work"
-layout: single
 author_profile: true
 ---
 
