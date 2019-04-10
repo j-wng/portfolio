@@ -8,5 +8,5 @@ main:
     url: /cv_courses/
   - title: "Professional Development"
     url: /pd/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Advisory History"
+    url: /advhist/
