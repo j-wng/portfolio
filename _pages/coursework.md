@@ -1,11 +1,11 @@
 ---
 permalink: /coursework/
 title: "Course Work"
-layout: single
+layout: posts
 author_profile: true
 ---
 
 <figure class="half">
-  <img src="/img/camp.jpeg">
-  <img src="/img/logo.png">
+  <img src="/assets/images/camp.jpeg">
+  <img src="/assets/images/logo.png">
 </figure>
