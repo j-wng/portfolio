@@ -2,6 +2,8 @@
 main:
   - title: "Issue Paper"
     url: /issuepaper/
+  - title: "Major Paper"
+    url: /majorpaper/
   - title: "Course Work"
     url: /coursework/
   - title: "CV & Courses"
