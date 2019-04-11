@@ -10,27 +10,24 @@ toc_icon: "heart"
 toc_sticky: true
 ---
 
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
-}
+<style>
+.embed-container { 
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+} 
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
 
-
-.video-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-<div>
-    <iframe src="https://ucla.app.box.com/embed/s/um9vmv4arrrhd3unt0n2hvhsg7asxtay?sortColumn=date&view=list" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen>
-    </iframe>
+<div class='embed-container'>  
+    <iframe src='https://ucla.app.box.com/embed/s/um9vmv4arrrhd3unt0n2hvhsg7asxtay?sortColumn=date&view=list' width='800' height='550' frameborder='0' allowfullscreen webkitallowfullscreen msallowfullscreen>
+    </iframe> 
 </div>
+
 
 <h1><b><i>Core Paper:</i></b> Bitcoins</h1>
 
