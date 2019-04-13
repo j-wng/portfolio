@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "MLIS Portfolio"
 title_separator          : "-"
 name                     : "Joyce Wang"
-description              : "Introvert. Please don't talk to me. WHY ISN'T THIS WORKING."
+description              : #"Introvert. Please don't talk to me. WHY ISN'T THIS WORKING."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,14 +108,14 @@ analytics:
 author:
   name             : "Joyce Wang"
   avatar           : "/assets/images/logo.png"
-  bio              : "Introvert. Currently reading Ideology and Ideological State Apparatuses. In process of losing my mind."
-  location         : "Somewhere"
+  bio              : "MLIS student at UCLA interested in digital humanities, digital libraries, archives, data management. Did a undergraduate degree in Microbiology and Molecular Genetics, minoring in history."
+ # location         : #"Somewhere"
   email            :
   
   links:
     - label: "Currently reading"
-    - label: "Ideology and ISAs"
-      icon:  "fas fa-fw fa-bookmark"
+   # - label: "Ideology and ISAs"
+   #   icon:  "fas fa-fw fa-bookmark"
       url:   "https://en.wikipedia.org/wiki/Ideology_and_Ideological_State_Apparatuses"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
